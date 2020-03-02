@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="PI Tracker">0bf4aba5db970010c8ce196c29961977</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="PI Tracker Search Context Config">cbf4aba5db970010c8ce196c29961974</global_search_data>
+        <name>PI Tracker</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 08:53:52</sys_created_on>
+        <sys_id>4bf4aba5db970010c8ce196c29961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PI Tracker</sys_name>
+        <sys_package display_value="PI Tracker" source="x_388661_pi_tracke">b754672ddb970010c8ce196c29961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PI Tracker">b754672ddb970010c8ce196c29961971</sys_scope>
+        <sys_update_name>sys_aw_master_config_4bf4aba5db970010c8ce196c29961976</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 08:53:52</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>pi_tracker</workspace_url>
+    </sys_aw_master_config>
+</record_update>

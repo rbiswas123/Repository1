@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>task</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Task Form Screen">71d4a369dbd70010c8ce196c2996199b</embedded_screen>
+        <item_view display_value="Task List Screen Item View">79d4ebe5dbd70010c8ce196c299619e7</item_view>
+        <name>Task master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 08:53:13</sys_created_on>
+        <sys_id>31d4a369dbd70010c8ce196c299619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task master_item</sys_name>
+        <sys_package display_value="PI Tracker" source="x_388661_pi_tracke">b754672ddb970010c8ce196c29961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PI Tracker">b754672ddb970010c8ce196c29961971</sys_scope>
+        <sys_update_name>sys_sg_master_item_31d4a369dbd70010c8ce196c299619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 08:53:13</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>
